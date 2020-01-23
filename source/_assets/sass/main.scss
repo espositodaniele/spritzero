@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+	font-family: "Bender";
+    src: url('../fonts/bender-webfont.woff2') format('woff2'),
+         url('../fonts/bender-webfont.woff') format('woff')
+}
+
+
+@responsive {
+    .logo-0 { 
+        width: 500px;
+    }
+    .logo-1 {
+        width: 350px;
+    }
+    .logo-2 {
+        width: 300px;
+    }
+
+    .logo-aperol-aperol-0 {
+        width: 300px;
+    }
+    .logo-aperol-1 {
+        width: 250px;
+    }
+    .logo-aperol-2 {
+        width: 200px;
+    }
+    .translate-x-0 {
+        transform: translateX(65%)
+    }
+    .translate-x-2 {
+        transform: translateX(50%)
+    }
+    .translate-x-3 {
+        transform: translateX(30%)
+    }
+    .translate-x-4 {
+        transform: translateX(0%)
+    }
+      
+}
+
