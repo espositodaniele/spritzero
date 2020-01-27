@@ -36,7 +36,7 @@
             <h2 class="text-center text-4xl md:text-5xl text-white leading-none font-sans uppercase">in franchising</h2>
             <div class="text-center w-48 md:w-74 h-1 bg-white text-white mx-auto my-2"></div>
             <p class="text-center text-4xl md:text-5xl text-white leading-none font-sans">Scrivici a:</p>
-            <p class="text-center text-3xl md:text-5xl text-white leading-none font-sans">franchising@spritzero.it</p>
+            <p class="text-center text-3xl md:text-5xl text-white leading-none font-sans hover:underline"><a href="mailto:franchising@spritzero.it">franchising@spritzero.it</a></p>
             <div class="py-4">
                 <img class="block w-24 mx-auto" src="/assets/images/Bottiglia.png" alt="bottiglia aperol">
             </div>
