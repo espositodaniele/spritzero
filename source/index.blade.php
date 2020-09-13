@@ -8,13 +8,6 @@
             <div class="mb-2 md:mb-2">
                 @include('_svgs.logo')
             </div>
-            <div class="text-center text-white text-lg md:text-xl font-sans">
-                In Collaborazione Con
-            </div>
-            <div class="mb-2 md:mb-2">
-                @include('_svgs.logo-aperol')
-            </div>
-            
         </div>
     </section>
     <section class="bg-white py-10 px-10 relative">
@@ -37,9 +30,7 @@
             <div class="text-center w-48 md:w-74 h-1 bg-white text-white mx-auto my-2"></div>
             <p class="text-center text-4xl md:text-5xl text-white leading-none font-sans">Scrivici a:</p>
             <p class="text-center text-3xl md:text-5xl text-white leading-none font-sans hover:underline"><a href="mailto:franchising@spritzero.it">franchising@spritzero.it</a></p>
-            <div class="py-4">
-                <img class="block w-24 mx-auto" src="/assets/images/Bottiglia.png" alt="bottiglia aperol">
-            </div>
+            
             <p class="text-center text-2xl md:text-3xl text-white leading-none font-sans">seguici sui social</p>
             <div class="md:py-2 py-1 flex justify-center">
                 <div class="py-2 px-2">
