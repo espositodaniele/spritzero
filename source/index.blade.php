@@ -3,7 +3,7 @@
 @section('body')
 
 <main class="min-h-screen flex flex-col relative">
-    <section class="bg-10 py-16 min-h-half">
+    <section class="bg-10 py-16">
         <div class="md:py-8 py-4">
             <div class="mb-2 md:mb-2">
                 @include('_svgs.logo')
@@ -46,26 +46,34 @@
             </div>
             <h2 class="text-center text-4xl md:text-5xl text-30 leading-none font-sans uppercase">#spritzero</h2>
 
-            <div class="py-10">
-                <div class="flex flex-wrap justify-center text-md text-30 uppercase">
-                    <span class="px-2 py-5 font-bold">Napoli</span>
-                    <span class="px-2 py-5">Antignano</span>
-                    <span class="px-2 py-5">Vomero</span>
-                    <span class="px-2 py-5">Colli Aminei</span>
-                    <span class="px-2 py-5">San Pasquale</span>
-                    <span class="px-2 py-5">Via Chiaia</span>
-                    <span class="px-2 py-5">Mergellina</span>
-                    <span class="px-2 py-5 font-bold">Pomigliano</span>
-                    <span class="px-2 py-5">Via Roma</span>
-                    <span class="px-2 py-5 font-bold">Salerno</span>
-                    <span class="px-2 py-5">Centro Storico</span>
-                    <span class="px-2 py-5 font-bold">Roma</span>
-                    <span class="px-2 py-5">Ponte Milvio</span>
-                    <span class="px-2 py-5 font-bold">Torino</span>
-                    <span class="px-2 py-5">San Salvario</span>
-                    <span class="px-2 py-5 font-bold">Trani</span>
-                    <span class="px-2 py-5">Centro Storico</span>
+            <div class="pt-10">
+                <div class="flex flex-wrap justify-center text-md text-white font-sans uppercase">
+                    <span class="px-2 py-2 font-bold text-30">Napoli</span>
+                    <span class="px-2 py-2">Antignano</span>
+                    <span class="px-2 py-2">Vomero</span>
+                    <span class="px-2 py-2">Colli Aminei</span>
+                    <span class="px-2 py-2">San Pasquale</span>
+                    <span class="px-2 py-2">Via Chiaia</span>
+                    <span class="px-2 py-2">Mergellina</span>
                 </div>
+
+                <div class="flex flex-wrap justify-center text-md text-white font-sans uppercase">
+                    <span class="px-2 py-2 font-bold text-30">Pomigliano</span>
+                    <span class="px-2 py-2">Via Roma</span>
+                    <span class="px-2 py-2 font-bold text-30">Salerno</span>
+                    <span class="px-2 py-2">Centro Storico</span>
+                </div>
+
+
+                <div class="flex flex-wrap justify-center text-md text-white font-sans uppercase">
+                    <span class="px-2 py-2 font-bold text-30">Roma</span>
+                    <span class="px-2 py-2">Ponte Milvio</span>
+                    <span class="px-2 py-2 font-bold text-30">Torino</span>
+                    <span class="px-2 py-2">San Salvario</span>
+                    <span class="px-2 py-2 font-bold text-30">Trani</span>
+                    <span class="px-2 py-2">Centro Storico</span>
+                </div>
+
             </div>
         </div>
     </section>
