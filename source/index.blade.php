@@ -47,7 +47,7 @@
             <h2 class="text-center text-4xl md:text-5xl text-30 leading-none font-sans uppercase">#spritzero</h2>
 
             <div class="py-10">
-                <div class="flex flex-wrap justify-center text-md text-white uppercase">
+                <div class="flex flex-wrap justify-center text-md text-30 uppercase">
                     <span class="px-2 py-5 font-bold">Napoli</span>
                     <span class="px-2 py-5">Antignano</span>
                     <span class="px-2 py-5">Vomero</span>
@@ -63,7 +63,7 @@
                     <span class="px-2 py-5">Ponte Milvio</span>
                     <span class="px-2 py-5 font-bold">Torino</span>
                     <span class="px-2 py-5">San Salvario</span>
-                    <span class="px-2 py-5 font-bold">Treni</span>
+                    <span class="px-2 py-5 font-bold">Trani</span>
                     <span class="px-2 py-5">Centro Storico</span>
                 </div>
             </div>
